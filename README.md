@@ -4,10 +4,10 @@
 
 Download the OpenAPI Specification for your specific Bunny API:
 
-- [BunnyApi](https://github.com/jlarmstrongiv/bunny-sdk-openapi/blob/main/specifications/openapi.BunnyApi.yaml)
-- [EdgeStorageApi](https://github.com/jlarmstrongiv/bunny-sdk-openapi/blob/main/specifications/openapi.EdgeStorageApi.yaml)
-- [LoggingApi](https://github.com/jlarmstrongiv/bunny-sdk-openapi/blob/main/specifications/openapi.LoggingApi.yaml)
-- [StreamApi](https://github.com/jlarmstrongiv/bunny-sdk-openapi/blob/main/specifications/openapi.StreamApi.yaml)
+- [Bunny API](https://github.com/jlarmstrongiv/bunny-sdk-openapi/blob/main/specifications/openapi.BunnyApi.yaml)
+- [Edge Storage API](https://github.com/jlarmstrongiv/bunny-sdk-openapi/blob/main/specifications/openapi.EdgeStorageApi.yaml)
+- [Logging API](https://github.com/jlarmstrongiv/bunny-sdk-openapi/blob/main/specifications/openapi.LoggingApi.yaml)
+- [Stream API](https://github.com/jlarmstrongiv/bunny-sdk-openapi/blob/main/specifications/openapi.StreamApi.yaml)
 
 ## Documentation
 
